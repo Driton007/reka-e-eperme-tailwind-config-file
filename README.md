@@ -1,3 +1,5 @@
+# Reka e eperme clors Tailwindcss config file
+
 ```js
 // eslint-disable-next-line no-undef
 const config = require('tailwindcss/defaultTheme')
