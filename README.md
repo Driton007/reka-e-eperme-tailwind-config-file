@@ -116,7 +116,7 @@ module.exports = {
           800: '#1e40af',
           900: '#1e3a8a',
         },
-        shalk_i_zeshk: {
+        shallt_i_zeshk: {
           100: '#f3e8ff',
           200: '#e9d5ff',
           300: '#d8b4fe',
@@ -127,7 +127,7 @@ module.exports = {
           800: '#6b21a8',
           900: '#581c87',
         },
-        shall_i_cel: {
+        shallt_i_cel: {
           100: '#fae8ff',
           200: '#f5d0fe',
           300: '#f0abfc',
