@@ -1,4 +1,4 @@
-# Reka e eperme clors Tailwindcss config file
+# Reka e eperme colors Tailwindcss config file
 
 ```js
 // eslint-disable-next-line no-undef
